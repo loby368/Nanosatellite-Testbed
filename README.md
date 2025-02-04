@@ -6,6 +6,9 @@ The hardware consists of a 1U CubeSat with a 1-axis reaction wheel mounted upon 
 
 The project involved designing the system architecture, developing the embedded system avionics units, building the mechanical chassis, and running control algorithm tests.
 
+## Video
+You can watch a video of a force feedback control algorithm running on the testbed [here.](https://youtu.be/84-hkJHZbc4)
+
 ## Learnings:
 From this project, I have improved my skills with:
 - C
