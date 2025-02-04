@@ -22,3 +22,5 @@ The write-up can be found on the [KTH DIVA Web Portal](https://kth.diva-portal.o
 
 ![Screenshot 2025-02-03 215528](https://github.com/user-attachments/assets/7a9347cc-95cc-4c39-adc7-127bdff41616)
 
+### An example of the telemetry that the testbed generates during a control experiment
+![image](https://github.com/user-attachments/assets/569ac2e3-defb-411d-a349-8d157c78d817)
