@@ -1,0 +1,6 @@
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/mc_math.c:100:20:MCM_Clarke	16	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/mc_math.c:330:24:MCM_Trig_Functions	8	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/mc_math.c:168:13:MCM_Park	32	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/mc_math.c:275:20:MCM_Rev_Park	32	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/mc_math.c:392:16:MCM_Sqrt	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/mc_math.c:440:17:MCM_floatToIntBit	8	static

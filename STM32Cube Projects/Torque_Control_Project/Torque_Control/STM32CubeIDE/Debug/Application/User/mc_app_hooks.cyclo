@@ -1,0 +1,2 @@
+mc_app_hooks.c:48:13:MC_APP_BootHook	1
+mc_app_hooks.c:66:13:MC_APP_PostMediumFrequencyHook_M1	1

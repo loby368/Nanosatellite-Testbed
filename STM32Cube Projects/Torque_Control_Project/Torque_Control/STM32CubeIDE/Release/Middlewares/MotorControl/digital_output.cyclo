@@ -1,0 +1,2 @@
+digital_output.c:45:13:DOUT_SetOutputState	4
+digital_output.c:85:23:DOUT_GetOutputState	1

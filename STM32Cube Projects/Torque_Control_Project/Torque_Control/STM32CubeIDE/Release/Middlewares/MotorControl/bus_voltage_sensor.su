@@ -1,0 +1,4 @@
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/bus_voltage_sensor.c:56:17:VBS_GetBusVoltage_d	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/bus_voltage_sensor.c:86:17:VBS_GetAvBusVoltage_d	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/bus_voltage_sensor.c:111:17:VBS_GetAvBusVoltage_V	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/bus_voltage_sensor.c:137:17:VBS_CheckVbus	0	static

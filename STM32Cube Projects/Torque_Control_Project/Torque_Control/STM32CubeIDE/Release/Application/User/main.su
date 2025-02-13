@@ -1,0 +1,4 @@
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/main.c:292:7:BNO055_Read.constprop	32	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/main.c:547:6:SystemClock_Config	128	static,ignoring_inline_asm
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/main.c:128:5:main	272	static,ignoring_inline_asm
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/main.c:1011:6:Error_Handler	0	static,ignoring_inline_asm

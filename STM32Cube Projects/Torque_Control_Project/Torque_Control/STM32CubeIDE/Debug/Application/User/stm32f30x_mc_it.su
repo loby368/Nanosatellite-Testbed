@@ -1,0 +1,5 @@
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/stm32f30x_mc_it.c:76:6:ADC1_IRQHandler	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/stm32f30x_mc_it.c:102:6:TIM1_UP_TIM16_IRQHandler	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/stm32f30x_mc_it.c:116:6:TIM1_BRK_TIM15_IRQHandler	8	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/stm32f30x_mc_it.c:144:6:HardFault_Handler	8	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/stm32f30x_mc_it.c:161:6:SysTick_Handler	8	static

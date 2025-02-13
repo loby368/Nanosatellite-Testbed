@@ -1,0 +1,4 @@
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/register_interface.c:35:16:RI_SetRegCommandParser	72	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/register_interface.c:109:16:RI_GetRegCommandParser	136	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/register_interface.c:1214:9:RI_GetIDSize	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/register_interface.c:1248:16:RI_GetPtrReg	0	static

@@ -1,0 +1,13 @@
+virtual_speed_sensor.c:68:13:VSS_Clear	1
+virtual_speed_sensor.c:57:13:VSS_Init	1
+virtual_speed_sensor.c:117:16:VSS_CalcElAngle	7
+virtual_speed_sensor.c:214:13:VSS_CalcAvrgMecSpeedUnit	5
+virtual_speed_sensor.c:280:13:VSS_SetMecAngle	1
+virtual_speed_sensor.c:313:14:VSS_SetMecAcceleration	4
+virtual_speed_sensor.c:386:13:VSS_RampCompleted	1
+virtual_speed_sensor.c:419:17:VSS_GetLastRampFinalSpeed	1
+virtual_speed_sensor.c:441:13:VSS_SetStartTransition	3
+virtual_speed_sensor.c:478:13:VSS_IsTransitionOngoing	2
+virtual_speed_sensor.c:520:13:VSS_TransitionEnded	1
+virtual_speed_sensor.c:536:13:VSS_SetCopyObserver	1
+virtual_speed_sensor.c:560:13:VSS_SetElAngle	1

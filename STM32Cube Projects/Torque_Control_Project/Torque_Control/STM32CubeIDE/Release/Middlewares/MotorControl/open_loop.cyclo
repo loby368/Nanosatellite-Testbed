@@ -1,0 +1,6 @@
+open_loop.c:50:13:OL_Init	1
+open_loop.c:73:13:OL_VqdConditioning	1
+open_loop.c:90:13:OL_UpdateVoltage	1
+open_loop.c:110:16:OL_GetVoltage	1
+open_loop.c:126:13:OL_Calc	3
+open_loop.c:158:13:OL_VF	1

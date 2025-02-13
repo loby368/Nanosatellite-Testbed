@@ -1,0 +1,3 @@
+pqd_motor_power_measurement.c:65:13:PQD_CalcElMotorPower	2
+pqd_motor_power_measurement.c:97:13:PQD_Clear	1
+pqd_motor_power_measurement.c:122:14:PQD_GetAvrgElMotorPowerW	1

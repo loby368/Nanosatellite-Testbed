@@ -1,0 +1,6 @@
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/open_loop.c:50:13:OL_Init	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/open_loop.c:73:13:OL_VqdConditioning	8	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/open_loop.c:90:13:OL_UpdateVoltage	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/open_loop.c:110:16:OL_GetVoltage	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/open_loop.c:126:13:OL_Calc	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/open_loop.c:158:13:OL_VF	0	static

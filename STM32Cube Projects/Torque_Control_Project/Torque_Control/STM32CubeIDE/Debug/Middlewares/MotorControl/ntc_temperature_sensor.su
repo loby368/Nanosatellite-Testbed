@@ -1,0 +1,7 @@
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/ntc_temperature_sensor.c:69:17:NTC_SetFaultState	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/ntc_temperature_sensor.c:137:13:NTC_Clear	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/ntc_temperature_sensor.c:106:13:NTC_Init	8	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/ntc_temperature_sensor.c:160:17:NTC_CalcAvTemp	8	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/ntc_temperature_sensor.c:211:17:NTC_GetAvTemp_d	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/ntc_temperature_sensor.c:227:16:NTC_GetAvTemp_C	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/ntc_temperature_sensor.c:273:17:NTC_CheckTemp	0	static

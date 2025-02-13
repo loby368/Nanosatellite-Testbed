@@ -1,0 +1,13 @@
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:68:13:VSS_Clear	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:57:13:VSS_Init	8	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:117:16:VSS_CalcElAngle	12	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:214:13:VSS_CalcAvrgMecSpeedUnit	4	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:280:13:VSS_SetMecAngle	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:313:14:VSS_SetMecAcceleration	8	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:386:13:VSS_RampCompleted	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:419:17:VSS_GetLastRampFinalSpeed	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:441:13:VSS_SetStartTransition	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:478:13:VSS_IsTransitionOngoing	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:520:13:VSS_TransitionEnded	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:536:13:VSS_SetCopyObserver	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/MCSDK_v6.1.2-Full/MotorControl/MCSDK/MCLib/Any/Src/virtual_speed_sensor.c:560:13:VSS_SetElAngle	0	static

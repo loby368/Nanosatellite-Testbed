@@ -1,0 +1,7 @@
+ntc_temperature_sensor.c:69:17:NTC_SetFaultState	3
+ntc_temperature_sensor.c:137:13:NTC_Clear	1
+ntc_temperature_sensor.c:106:13:NTC_Init	2
+ntc_temperature_sensor.c:160:17:NTC_CalcAvTemp	3
+ntc_temperature_sensor.c:211:17:NTC_GetAvTemp_d	1
+ntc_temperature_sensor.c:227:16:NTC_GetAvTemp_C	2
+ntc_temperature_sensor.c:273:17:NTC_CheckTemp	1

@@ -1,0 +1,7 @@
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/regular_conversion_manager.c:184:9:RCM_RegisterRegConv	16	static,ignoring_inline_asm
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/regular_conversion_manager.c:147:9:RCM_RegisterRegConv_WithCB	16	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/regular_conversion_manager.c:275:10:RCM_ExecRegularConv	0	static,ignoring_inline_asm
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/regular_conversion_manager.c:305:6:RCM_RequestUserConv	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/regular_conversion_manager.c:330:10:RCM_GetUserConv	0	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/regular_conversion_manager.c:352:6:RCM_ExecUserConv	16	static
+C:/Users/louib/.st_workbench/projects/Torque_Control/Src/regular_conversion_manager.c:382:21:RCM_GetUserConvState	0	static

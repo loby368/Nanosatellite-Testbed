@@ -1,0 +1,9 @@
+mc_perf.c:23:7:MC_Perf_Measure_Init	2
+mc_perf.c:48:7:MC_Perf_Clear	1
+mc_perf.c:66:7:MC_Perf_Measure_Start	1
+mc_perf.c:77:7:MC_BG_Perf_Measure_Start	1
+mc_perf.c:90:7:MC_Perf_Measure_Stop	5
+mc_perf.c:123:7:MC_BG_Perf_Measure_Stop	5
+mc_perf.c:156:7:MC_Perf_GetCPU_Load	1
+mc_perf.c:172:7:MC_Perf_GetMaxCPU_Load	1
+mc_perf.c:188:7:MC_Perf_GetMinCPU_Load	2

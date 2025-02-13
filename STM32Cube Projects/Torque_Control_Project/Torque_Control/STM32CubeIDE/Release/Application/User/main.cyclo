@@ -1,0 +1,4 @@
+main.c:292:7:BNO055_Read.constprop	1
+main.c:547:6:SystemClock_Config	4
+main.c:128:5:main	30
+main.c:1011:6:Error_Handler	1
